@@ -2,4 +2,23 @@
   box-sizing: border-box;
 }
 
+.mh-15vh {
+  min-height: 15vh;
+}
+.mh-20vh {
+  min-height: 20vh;
+}
+.mh-25vh {
+  min-height: 25vh;
+}
+.mh-50vh {
+  min-height: 50vh;
+}
+.mh-75vh {
+  min-height: 75vh;
+}
+.mh-100vh {
+  min-height: 100vh;
+}
+
 /*# sourceMappingURL=styles.css.map */
