@@ -1,4 +1,8 @@
-@use "partials/variables";
-@use "partials/mixins";
-@use "partials/layout";
-@use "partials/modules";
+@import 'partials/variables';
+@import 'partials/bgcolors';
+@import 'partials/brcolors';
+@import 'partials/opacity';
+@import 'partials/vhmin';
+@import 'partials/mixins';
+@import 'partials/layout';
+@import 'partials/modules';

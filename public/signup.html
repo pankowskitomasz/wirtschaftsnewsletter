@@ -35,17 +35,42 @@
         </div>
     </nav>
     <main>
-        <div class="error-s1 container-fluid d-flex mh-100vh">
-            <div class="row my-auto w-100">
-                <div class="col-8 col-sm-6 col-md-4 col-lg-3 mx-auto">
+        <div class="signin-s1 container-fluid d-flex mh-100vh">
+            <div class="row w-100 my-auto">
+                <div class="col-12 col-sm-8 col-md-5 col-lg-4 col-xl-3 mx-auto">
                     <div class="card text-center p-3">
-                        <h2>Error 404</h2>
-                        <p>
-
+                        <h4 class="card-title mb-3">Login</h4>
+                        <form method="post" action="">
+                            <div class="input-group mb-3">
+                                <span class="input-group-text">
+                                    <!-- user icon -->
+                                </span>
+                                <input type="text" class="form-control" placeholder="Username">
+                            </div>
+                            <div class="input-group mb-3">
+                                <span class="input-group-text">
+                                    <!-- email icon -->
+                                </span>
+                                <input type="email" class="form-control" placeholder="Email">
+                            </div>
+                            <div class="input-group mb-3">
+                                <span class="input-group-text">
+                                    <!-- lock icon -->
+                                </span>
+                                <input type="password" class="form-control" placeholder="Password">
+                            </div>
+                            <div class="input-group mb-3">
+                                <span class="input-group-text">
+                                    <!-- lock icon -->
+                                </span>
+                                <input type="password" class="form-control" placeholder="Confirm Password">
+                            </div>
+                            <input type="submit" class="btn btn-secondary rounded-pill mb-3" value="Create Account">
+                        </form>
+                        <p class="form-text">
+                            If already registered please
+                            <a class="text-secondary" href="signin.html">Sign in</a>
                         </p>
-                        <div>
-                            <a class="btn btn-sm btn-secondary rounded-pill" href="index.html">Back to Home</a>
-                        </div>
                     </div>
                 </div>
             </div>

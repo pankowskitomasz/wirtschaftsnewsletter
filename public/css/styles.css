@@ -1,24 +1,117 @@
+.bg-100 {
+  background-color: #444; }
+.bg-200 {
+  background-color: #555; }
+.bg-300 {
+  background-color: #666; }
+.bg-400 {
+  background-color: #777; }
+.bg-500 {
+  background-color: #888; }
+.bg-600 {
+  background-color: #999; }
+.bg-700 {
+  background-color: #aaa; }
+.bg-800 {
+  background-color: #bbb; }
+.bg-900 {
+  background-color: #ccc; }
+
+.br-100 {
+  border-color: #444; }
+.br-200 {
+  border-color: #555; }
+.br-300 {
+  border-color: #666; }
+.br-400 {
+  border-color: #777; }
+.br-500 {
+  border-color: #888; }
+.br-600 {
+  border-color: #999; }
+.br-700 {
+  border-color: #aaa; }
+.br-800 {
+  border-color: #bbb; }
+.br-900 {
+  border-color: #ccc; }
+
+.opacity-100 {
+  opacity: 0.1; }
+.opacity-200 {
+  opacity: 0.2; }
+.opacity-300 {
+  opacity: 0.3; }
+.opacity-400 {
+  opacity: 0.4; }
+.opacity-500 {
+  opacity: 0.5; }
+.opacity-600 {
+  opacity: 0.6; }
+.opacity-700 {
+  opacity: 0.7; }
+.opacity-800 {
+  opacity: 0.8; }
+.opacity-900 {
+  opacity: 0.9; }
+.opacity-1000 {
+  opacity: 1; }
+
+.vh-min-5 {
+  min-height: 5vh; }
+.vh-min-10 {
+  min-height: 10vh; }
+.vh-min-15 {
+  min-height: 15vh; }
+.vh-min-20 {
+  min-height: 20vh; }
+.vh-min-25 {
+  min-height: 25vh; }
+.vh-min-30 {
+  min-height: 30vh; }
+.vh-min-35 {
+  min-height: 35vh; }
+.vh-min-40 {
+  min-height: 40vh; }
+.vh-min-45 {
+  min-height: 45vh; }
+.vh-min-50 {
+  min-height: 50vh; }
+.vh-min-55 {
+  min-height: 55vh; }
+.vh-min-60 {
+  min-height: 60vh; }
+.vh-min-65 {
+  min-height: 65vh; }
+.vh-min-70 {
+  min-height: 70vh; }
+.vh-min-75 {
+  min-height: 75vh; }
+.vh-min-80 {
+  min-height: 80vh; }
+.vh-min-85 {
+  min-height: 85vh; }
+.vh-min-90 {
+  min-height: 90vh; }
+.vh-min-95 {
+  min-height: 95vh; }
+.vh-min-100 {
+  min-height: 100vh; }
+
 * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 .mh-15vh {
-  min-height: 15vh;
-}
+  min-height: 15vh; }
 .mh-20vh {
-  min-height: 20vh;
-}
+  min-height: 20vh; }
 .mh-25vh {
-  min-height: 25vh;
-}
+  min-height: 25vh; }
 .mh-50vh {
-  min-height: 50vh;
-}
+  min-height: 50vh; }
 .mh-75vh {
-  min-height: 75vh;
-}
+  min-height: 75vh; }
 .mh-100vh {
-  min-height: 100vh;
-}
+  min-height: 100vh; }
 
 /*# sourceMappingURL=styles.css.map */
